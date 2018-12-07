@@ -64,3 +64,5 @@ package-lock.json
 docker-compose-*.yml
 !docker-compose-prod.yml
 !docker-compose.yml
+
+node_modules/
